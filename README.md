@@ -1,7 +1,10 @@
 # TAREAS
 {
- Console.WriteLine("Bienvenido al programa");
-} 
-Console.WriteLine("Cuál es tu nombre");
-nombre=
+ static void Main(string()args)
+ {
+ string Nombre;
+ string apellidos
+ int Edad;
+ string Ocupación;
+ string correo;
  
